@@ -1,0 +1,7 @@
+*~
+*.pyc
+*.pyo
+__cache__
+build
+dist
+feuerwerk.egg-info
